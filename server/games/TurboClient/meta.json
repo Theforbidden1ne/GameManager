@@ -1,0 +1,9 @@
+{
+  "short": "Turbo Burger Kiosk Client",
+  "description": "Full description goes here. Basic <b>HTML</b> works.",
+  "executable": "client",
+  "version": "1.0.0",
+  "thumbnail": "thumb.png",
+  "genres": ["App", "Utility"],
+  "requirements": "Linux/Windows, 4GB RAM"
+}
