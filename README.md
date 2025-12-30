@@ -78,6 +78,4 @@ Tests
 pip install -r requirements.txt
 pytest -q tests/test_server_basic.py
 ```
-```
-
 
